@@ -12,3 +12,7 @@ In this challenge you must analyze demographic data using Pandas. You are given 
 3. Medical data visualizer
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas.
 
+4. For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, matplotlib, and seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
+
+5. In this project, you will analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
+
