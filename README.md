@@ -1,5 +1,11 @@
 # freeCodeCamp_Projects
-Completed Python projects from the course given by www.freeCodeCamp.org
+Completed Python projects from the course given by www.freeCodeCamp.org, the name of the course: Data Analysis with Python.
+
+Description: 
+In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+
+Certification:
+https://www.linkedin.com/in/anton-gollbo-553845211
 
 
 Instructions for each project:
